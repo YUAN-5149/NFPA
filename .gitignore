@@ -1,0 +1,12 @@
+# 排除輸出的 PowerPoint 檔案（太大，不需版控）
+*.pptx
+*.ppt
+
+# Windows 暫存檔
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# 其他暫存
+*.tmp
+*.log
